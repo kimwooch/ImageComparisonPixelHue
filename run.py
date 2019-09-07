@@ -174,6 +174,3 @@ if __name__ == '__main__':
 
     print('Accuracy of pixel: %f, Accuracy of histogram: %f' % (averagedPixelProb, averagedHistoProb))
 
-#given the images above, the accuracy of pixel was 31.2% and the accuracy of histogram was 17.4%
-#the low result of accuracy is due to different dimension of jpg files yolo captures and different colored images from the change of environment.
-
