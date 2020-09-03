@@ -1,6 +1,6 @@
 # Image Similarity using pixel and hue values
 
-  This program can be used to find two most similar images by comparing their pixel and histogram euclidean values. It provides the difference rates for each images within a group and these values can be used to identify similar images.
+&nbsn;This program can be used to find two most similar images by comparing their pixel and histogram euclidean values. It provides the difference rates for each images within a group and these values can be used to identify similar images.
 
 ## Objective
 
