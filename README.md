@@ -11,4 +11,4 @@ Since Raspberry Pi isn't powerful enough to run ML algorithm, I tested if pixel 
 
 ## Further Consideration
 
-Taking a human photos with YOLO for pixel/hue comparison isn't sufficient for tracking individuals since images have too much significant pixel and hue differences. In order to increase its accuracy from 83.6% to above 90% using ML, utilizing Tensorflow to detect other characteristics such as clothings, color, etc will help significantly. Also, having a software to correct panorama distortion would greatly increase the accuracy of the program.
+Taking a human photos with YOLO for pixel/hue comparison isn't sufficient for tracking individuals since images have too much significant pixel and hue differences. In order to increase its accuracy from 83.6% to above 90% using ML, utilizing Tensorflow to detect other characteristics such as clothings, color, etc will help significantly. Also, locating camera a bit lower to capture people's face, body, legs, and shoes will provide better images for comparison.
