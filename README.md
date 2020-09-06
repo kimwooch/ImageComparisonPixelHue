@@ -1,4 +1,7 @@
+
 # Image Similarity using pixel and hue values
+
+<img width="912" alt="Screen Shot 2020-09-06 at 11 37 52 AM" src="https://user-images.githubusercontent.com/25372543/92316924-7bd96880-f035-11ea-9586-377aed69fb16.png">
 
 This program can be used to find two most similar images by comparing their pixel and histogram euclidean values. It provides the difference rates for each images within a group and these values can be used to identify similar images.
 
